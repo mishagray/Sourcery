@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.author       = { "Krzysztof Zabłocki" => "krzysztof.zablocki@pixle.pl" }
   s.social_media_url = "https://twitter.com/merowing_"
 
-  s.source       = { :http => "https://github.com/krzysztofzablocki/Sourcery/releases/download/#{s.version}/sourcery-#{s.version}.zip" }
+  s.source       = { :http => "https://github.com/mishagray/Sourcery/releases/download/#{s.version}/sourcery-#{s.version}.zip" }
   s.preserve_paths = '*'
   s.exclude_files = '**/file.zip'
 
